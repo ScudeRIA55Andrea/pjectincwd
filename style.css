@@ -1,0 +1,24 @@
+.round-frame {
+    border-top-left-radius:9999px;
+    border-top-right-radius: 9999px;
+
+    
+}
+
+.round-img {
+    border-top-left-radius:9999px;
+    border-top-right-radius: 9999px;
+}
+
+.my-carousel {
+    width: 80%; 
+    height: 500px; 
+    margin: auto; 
+}
+
+.my-carousel .carousel-item img {
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; 
+}
+
